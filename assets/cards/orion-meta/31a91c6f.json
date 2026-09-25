@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "submissionId": "31A91C6F",
+  "name": "Vegeta",
+  "series": "Dragon Ball",
+  "edition": "1",
+  "rarity": "Common",
+  "adult": false,
+  "art": "dragon-ball/common/vegeta-31a91c6f.png",
+  "createdAt": 1790320055507
+}

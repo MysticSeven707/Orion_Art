@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/conny-s-father-50b0b0ee.png",
-  "createdAt": 1790682922654
+  "createdAt": 1790682922654,
+  "editedAt": 1790683107272,
+  "editRevision": 1
 }

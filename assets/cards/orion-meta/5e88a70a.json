@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/boris-feulner-5e88a70a.png",
-  "createdAt": 1790678970841
+  "createdAt": 1790678970841,
+  "editedAt": 1790682063500,
+  "editRevision": 1
 }

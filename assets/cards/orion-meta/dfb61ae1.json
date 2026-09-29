@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "durarara/edition-1/mikado-ryuugamine-dfb61ae1.jpg",
-  "createdAt": 1790713968036
+  "createdAt": 1790713968036,
+  "editedAt": 1790714167120,
+  "editRevision": 1
 }

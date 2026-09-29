@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "7D83C5EA",
   "name": "Lynne",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/lynne-7d83c5ea.png",
-  "createdAt": 1790610353257
+  "createdAt": 1790610353257,
+  "editedAt": 1790677695312,
+  "editRevision": 1
 }

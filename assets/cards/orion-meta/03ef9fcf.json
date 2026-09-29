@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "03EF9FCF",
   "name": "Marlo Freudenberg",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/marlo-freudenberg-03ef9fcf.png",
-  "createdAt": 1790610399581
+  "createdAt": 1790610399581,
+  "editedAt": 1790677675668,
+  "editRevision": 1
 }

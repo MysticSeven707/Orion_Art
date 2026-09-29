@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "4398DAF6",
   "name": "Marlene",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/marlene-4398daf6.png",
-  "createdAt": 1790610366956
+  "createdAt": 1790610366956,
+  "editedAt": 1790677683600,
+  "editRevision": 1
 }

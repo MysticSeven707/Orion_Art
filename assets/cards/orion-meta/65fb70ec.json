@@ -4,7 +4,9 @@
   "name": "Grisha´s Father",
   "series": "Attack on Titan",
   "edition": "1",
-  "adult": true,
+  "adult": false,
   "art": "attack-on-titan/edition-1/grisha-s-father-65fb70ec.png",
-  "createdAt": 1790686587609
+  "createdAt": 1790686587609,
+  "editedAt": 1790686601509,
+  "editRevision": 1
 }

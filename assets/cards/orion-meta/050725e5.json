@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "050725E5",
   "name": "Gordon",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/gordon-050725e5.png",
-  "createdAt": 1790609995176
+  "createdAt": 1790609995176,
+  "editedAt": 1790677859782,
+  "editRevision": 1
 }

@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "E9C6AD1B",
   "name": "Moses",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/moses-e9c6ad1b.png",
-  "createdAt": 1790610516877
+  "createdAt": 1790610516877,
+  "editedAt": 1790677629521,
+  "editRevision": 1
 }

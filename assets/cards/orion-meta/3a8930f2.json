@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "3A8930F2",
   "name": "Klaus",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/klaus-3a8930f2.png",
-  "createdAt": 1790610298405
+  "createdAt": 1790610298405,
+  "editedAt": 1790677748488,
+  "editRevision": 1
 }

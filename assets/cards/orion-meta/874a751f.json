@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "874A751F",
   "name": "Sandra",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/sandra-874a751f.png",
-  "createdAt": 1790610667375
+  "createdAt": 1790610667375,
+  "editedAt": 1790677510532,
+  "editRevision": 1
 }

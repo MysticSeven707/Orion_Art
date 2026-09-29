@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "2734522E",
   "name": "Petra Ral",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/petra-ral-2734522e.png",
-  "createdAt": 1790610621199
+  "createdAt": 1790610621199,
+  "editedAt": 1790677562852,
+  "editRevision": 1
 }

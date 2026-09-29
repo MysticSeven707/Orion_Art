@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "838D4085",
   "name": "Keiji",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/keiji-838d4085.png",
-  "createdAt": 1790610283965
+  "createdAt": 1790610283965,
+  "editedAt": 1790677755221,
+  "editRevision": 1
 }

@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "0EA940D8",
   "name": "Isabel Magnolia",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/isabel-magnolia-0ea940d8.png",
-  "createdAt": 1790610176331
+  "createdAt": 1790610176331,
+  "editedAt": 1790677806880,
+  "editRevision": 1
 }

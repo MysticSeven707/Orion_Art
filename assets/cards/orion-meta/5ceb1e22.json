@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "5CEB1E22",
   "name": "Moblit Berner",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/moblit-berner-5ceb1e22.png",
-  "createdAt": 1790610492444
+  "createdAt": 1790610492444,
+  "editedAt": 1790677636784,
+  "editRevision": 1
 }

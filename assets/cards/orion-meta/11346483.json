@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/bertholdt-hoover-11346483.png",
-  "createdAt": 1790678927004
+  "createdAt": 1790678927004,
+  "editedAt": 1790681687606,
+  "editRevision": 1
 }

@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "A38A57F6",
-  "name": "FlatwoodsMonster",
+  "name": "Flatwoods Monster",
   "series": "Dandadan",
   "edition": "1",
   "adult": false,
-  "art": "dandadan/edition-1/flatwoodsmonster-a38a57f6.png",
-  "createdAt": 1790613902840
+  "art": "dandadan/edition-1/flatwoods-monster-a38a57f6.png",
+  "createdAt": 1790613902840,
+  "editedAt": 1790671330487,
+  "editRevision": 1
 }

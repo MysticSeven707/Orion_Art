@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "52019DA6",
   "name": "Nifa",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/nifa-52019da6.png",
-  "createdAt": 1790610565151
+  "createdAt": 1790610565151,
+  "editedAt": 1790677589429,
+  "editRevision": 1
 }

@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "AC304058",
-  "name": "Porco Galliard´s Jaw Titan",
+  "name": "Marcel Galliard´s Jaw Titan",
   "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
-  "art": "attack-on-titan/edition-1/porco-galliard-s-jaw-titan-ac304058.png",
-  "createdAt": 1790689139808
+  "art": "attack-on-titan/edition-1/marcel-galliard-s-jaw-titan-ac304058.png",
+  "createdAt": 1790689139808,
+  "editedAt": 1790689259207,
+  "editRevision": 1
 }

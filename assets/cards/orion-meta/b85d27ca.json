@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "B85D27CA",
   "name": "Eld Gin",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/eld-gin-b85d27ca.png",
-  "createdAt": 1790609895888
+  "createdAt": 1790609895888,
+  "editedAt": 1790677891606,
+  "editRevision": 1
 }

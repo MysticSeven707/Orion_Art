@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "AC4E0FF1",
-  "name": "Yundefinedshtola",
+  "name": "Yshtola",
   "series": "Final Fantasy",
   "edition": "1",
   "adult": false,
-  "art": "final-fantasy/edition-1/yundefinedshtola-ac4e0ff1.png",
-  "createdAt": 1790508668560
+  "art": "final-fantasy/edition-1/yshtola-ac4e0ff1.png",
+  "createdAt": 1790508668560,
+  "editedAt": 1790677760704,
+  "editRevision": 1
 }

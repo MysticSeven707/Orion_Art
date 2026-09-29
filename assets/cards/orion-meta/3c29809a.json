@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "3C29809A",
-  "name": "AiraShiratori",
+  "name": "Aira Shiratori",
   "series": "Dandadan",
   "edition": "1",
   "adult": false,
-  "art": "dandadan/edition-1/airashiratori-3c29809a.png",
-  "createdAt": 1790613902840
+  "art": "dandadan/edition-1/aira-shiratori-3c29809a.png",
+  "createdAt": 1790613902840,
+  "editedAt": 1790674440508,
+  "editRevision": 1
 }

@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "B11EA661",
   "name": "Tomas",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/tomas-b11ea661.png",
-  "createdAt": 1790610695393
+  "createdAt": 1790610695393,
+  "editedAt": 1790677478996,
+  "editRevision": 1
 }

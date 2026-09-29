@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "13037960",
   "name": "Lauda",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/lauda-13037960.png",
-  "createdAt": 1790610324065
+  "createdAt": 1790610324065,
+  "editedAt": 1790677740726,
+  "editRevision": 1
 }

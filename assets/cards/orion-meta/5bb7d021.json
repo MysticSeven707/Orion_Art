@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "5BB7D021",
   "name": "Henning",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/henning-5bb7d021.png",
-  "createdAt": 1790610095020
+  "createdAt": 1790610095020,
+  "editedAt": 1790677822303,
+  "editRevision": 1
 }

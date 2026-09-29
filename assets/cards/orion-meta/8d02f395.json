@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "8D02F395",
   "name": "Dieter",
-  "series": "Attack On Titan",
+  "series": "Attack on Titan",
   "edition": "1",
   "adult": false,
   "art": "attack-on-titan/edition-1/dieter-8d02f395.png",
-  "createdAt": 1790609806561
+  "createdAt": 1790609806561,
+  "editedAt": 1790677932453,
+  "editRevision": 1
 }

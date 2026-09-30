@@ -5,6 +5,8 @@
   "series": "Steins;Gate",
   "edition": "1",
   "adult": false,
-  "art": "steins-gate/edition-1/kurisu-makise-2e15384c.png",
-  "createdAt": 1790733827103
+  "art": "steins-gate/edition-1/kurisu-makise-2e15384c.jpg",
+  "createdAt": 1790733827103,
+  "editedAt": 1790734676350,
+  "editRevision": 1
 }

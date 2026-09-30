@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "steins-gate/edition-1/luka-urushibara-0c8b5ae4.png",
-  "createdAt": 1790737816600
+  "createdAt": 1790737816600,
+  "editedAt": 1790738759778,
+  "editRevision": 1
 }

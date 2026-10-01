@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "breaking-bad/edition-1/jesse-pinkman-9fe705d5.png",
-  "createdAt": 1790858100478
+  "createdAt": 1790858100478,
+  "editedAt": 1790858172567,
+  "editRevision": 1
 }

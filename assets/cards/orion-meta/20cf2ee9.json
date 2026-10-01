@@ -4,7 +4,9 @@
   "name": "Lisa",
   "series": "Family Guy",
   "edition": "1",
-  "adult": true,
+  "adult": false,
   "art": "family-guy/edition-1/lisa-20cf2ee9.png",
-  "createdAt": 1790856896747
+  "createdAt": 1790856896747,
+  "editedAt": 1790856907354,
+  "editRevision": 1
 }

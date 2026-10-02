@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "sonic-the-hedgehog/edition-1/knuckles-the-echidna-7d6b3de0.png",
-  "createdAt": 1790978791310
+  "createdAt": 1790978791310,
+  "editedAt": 1790985474924,
+  "editRevision": 1
 }

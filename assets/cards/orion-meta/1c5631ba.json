@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "sonic-the-hedgehog/edition-1/shade-the-echidna-1c5631ba.png",
-  "createdAt": 1790983189940
+  "createdAt": 1790983189940,
+  "editedAt": 1790986158860,
+  "editRevision": 1
 }

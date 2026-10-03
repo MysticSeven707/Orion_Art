@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "sonic-the-hedgehog/edition-1/tikal-the-echidna-fffdf3cb.png",
-  "createdAt": 1790978992139
+  "createdAt": 1790978992139,
+  "editedAt": 1790985995424,
+  "editRevision": 1
 }

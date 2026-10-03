@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "sonic-the-hedgehog/edition-1/infinite-7d193cc0.png",
-  "createdAt": 1790983116871
+  "createdAt": 1790983116871,
+  "editedAt": 1790986339071,
+  "editRevision": 1
 }

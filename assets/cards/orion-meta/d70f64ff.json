@@ -2,9 +2,11 @@
   "schema": 1,
   "submissionId": "D70F64FF",
   "name": "Tsurumaru Tsuyoshi",
-  "series": "Uma Musume Pretty Derby",
+  "series": "Uma Musume: Pretty Derby",
   "edition": "1",
   "adult": false,
   "art": "uma-musume-pretty-derby/edition-1/tsurumaru-tsuyoshi-d70f64ff.png",
-  "createdAt": 1791189813401
+  "createdAt": 1791189813401,
+  "editedAt": 1791189837775,
+  "editRevision": 1
 }

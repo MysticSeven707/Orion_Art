@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "yu-gi-oh/edition-1/arkana-036b0806.png",
-  "createdAt": 1790949266553
+  "createdAt": 1790949266553,
+  "editedAt": 1791365341149,
+  "editRevision": 1
 }

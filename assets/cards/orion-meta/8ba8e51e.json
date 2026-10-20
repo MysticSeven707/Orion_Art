@@ -5,6 +5,8 @@
   "series": "Blue Lock",
   "edition": "1",
   "adult": false,
-  "art": "blue-lock/edition-1/bunny-iglesias-8ba8e51e.jpg",
-  "createdAt": 1791004398018
+  "art": "blue-lock/edition-1/bunny-iglesias-8ba8e51e.png",
+  "createdAt": 1791004398018,
+  "editedAt": 1792527005936,
+  "editRevision": 1
 }

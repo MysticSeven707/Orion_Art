@@ -5,6 +5,8 @@
   "series": "Blue Lock",
   "edition": "1",
   "adult": false,
-  "art": "blue-lock/edition-1/don-lorenzo-f6c1db83.jpg",
-  "createdAt": 1791004398018
+  "art": "blue-lock/edition-1/don-lorenzo-f6c1db83.png",
+  "createdAt": 1791004398018,
+  "editedAt": 1792526972757,
+  "editRevision": 1
 }

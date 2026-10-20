@@ -5,6 +5,8 @@
   "series": "Blue Lock",
   "edition": "1",
   "adult": false,
-  "art": "blue-lock/edition-1/charles-chevalier-98b2ca54.jpg",
-  "createdAt": 1791004398018
+  "art": "blue-lock/edition-1/charles-chevalier-98b2ca54.png",
+  "createdAt": 1791004398018,
+  "editedAt": 1792526996639,
+  "editRevision": 1
 }

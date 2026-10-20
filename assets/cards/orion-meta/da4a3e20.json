@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "blue-lock/edition-1/alexis-ness-da4a3e20.png",
-  "createdAt": 1791004398018
+  "createdAt": 1791004398018,
+  "editedAt": 1792527018385,
+  "editRevision": 1
 }

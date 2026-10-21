@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "A6F24DDE",
-  "name": "Persic",
+  "name": "Persica",
   "series": "The Extra's Academy Survival Guide",
   "edition": "1",
   "adult": false,
-  "art": "the-extra-s-academy-survival-guide/edition-1/persic-a6f24dde.png",
-  "createdAt": 1790813472539
+  "art": "the-extra-s-academy-survival-guide/edition-1/persica-a6f24dde.png",
+  "createdAt": 1790813472539,
+  "editedAt": 1792547182368,
+  "editRevision": 1
 }

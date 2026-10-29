@@ -5,6 +5,8 @@
   "series": "Blue Lock",
   "edition": "1",
   "adult": false,
-  "art": "blue-lock/edition-1/jingo-raichi-0a514f7c.jpg",
-  "createdAt": 1791004398018
+  "art": "blue-lock/edition-1/jingo-raichi-0a514f7c.png",
+  "createdAt": 1791004398018,
+  "editedAt": 1793279653303,
+  "editRevision": 1
 }

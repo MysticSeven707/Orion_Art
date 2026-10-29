@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "submissionId": "903ACE1C",
+  "name": "Bulbasaur",
+  "series": "Pokemon",
+  "edition": "1",
+  "adult": false,
+  "art": "pokemon/edition-1/bulbasaur-903ace1c.png",
+  "createdAt": 1793215703768
+}

@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "9DDC0D62",
-  "name": "AZ Ki.jfif",
+  "name": "AZKi",
   "series": "Hololive",
   "edition": "1",
   "adult": false,
-  "art": "hololive/edition-1/az-ki-jfif-9ddc0d62.jpg",
-  "createdAt": 1793178066085
+  "art": "hololive/edition-1/azki-9ddc0d62.jpg",
+  "createdAt": 1793178066085,
+  "editedAt": 1794094139803,
+  "editRevision": 1
 }

@@ -6,5 +6,7 @@
   "edition": "1",
   "adult": false,
   "art": "one-piece/edition-1/nefertari-vivi-e909cbd4.png",
-  "createdAt": 1793828600593
+  "createdAt": 1793828600593,
+  "editedAt": 1794140346243,
+  "editRevision": 1
 }

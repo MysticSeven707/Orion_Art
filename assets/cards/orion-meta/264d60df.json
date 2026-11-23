@@ -1,10 +1,12 @@
 {
   "schema": 1,
   "submissionId": "264D60DF",
-  "name": "Progranichnik",
+  "name": "Pogranichnik",
   "series": "Arknights: Endfield",
   "edition": "1",
   "adult": false,
-  "art": "arknights-endfield/edition-1/progranichnik-264d60df.png",
-  "createdAt": 1790777042924
+  "art": "arknights-endfield/edition-1/pogranichnik-264d60df.png",
+  "createdAt": 1790777042924,
+  "editedAt": 1795466997332,
+  "editRevision": 1
 }
